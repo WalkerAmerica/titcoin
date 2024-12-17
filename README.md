@@ -122,6 +122,7 @@ Tits ensure we have infinite memes for infinite money.
 - “That’s the million tit question.”
 - “We need more women in Titcoin.”
 - “I’m a Titcoin Maximalist.”
+- "Stay humble, stack tits."
 - “Nice tits!”
 - “I love tits.”
 
