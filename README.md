@@ -13,7 +13,7 @@ Also, by aligning Bitcoin's brand with live-giving tits, we will supercharge ado
 - What was previously referred to as "1 BTC" now corresponds to 100 million tits.
 - Satoshis are permanently eliminated.
 
-**Addressing the “Buttcoin” BIP:** 
+# Addressing the “Buttcoin” BIP:
 Not much time need be wasted addressing the catastrophic “Button” BIP proposed by Rockstar Dev, but two points bear emphasizing:
 
 1. “Butts” is shitcoin-adjacent terminology (where does shit come from? Exactly…)
