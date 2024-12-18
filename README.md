@@ -14,7 +14,7 @@ Also, by aligning Bitcoin's brand with live-giving tits, we will supercharge ado
 - Satoshis are permanently eliminated.
 
 # Addressing the “Buttcoin” BIP:
-Not much time need be wasted addressing the catastrophic “Button” BIP proposed by Rockstar Dev, but two points bear emphasizing:
+Not much time need be wasted addressing the catastrophic [“Buttcoin” BIP proposed by Rockstar Dev](https://primal.net/e/note1c7pey39nlpwstgudq6kxacjjfl9e7ch9rny9yzm2kvw6qtalxawsz4xrwa), but two points bear emphasizing:
 
 1. “Butts” is shitcoin-adjacent terminology (where does shit come from? Exactly…)
 2. Butts give you poop. Tits give you milk.
