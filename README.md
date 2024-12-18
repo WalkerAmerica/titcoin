@@ -5,7 +5,7 @@ Redefinition of Bitcoin into “Titcoin” and redefinition of sats into “tits
 # Abstract
 This BIP proposes redefining the commonly recognized "bitcoin" and “sats” units so that what was previously known “bitcoin” becomes “titcoin” and what was previously known as “sats,” the smallest indivisible unit, becomes “tits.” The “Bitcoin” Network will be renamed to the “Titcoin” Network. Under this proposal, one tit is defined as that smallest unit, eliminating the need for decimal places, and 100,000,000 tits is defined as a titcoin. By making tits the standard measure, this BIP aims to simplify user comprehension, reduce confusion, and align on-chain values directly with their displayed representation.
 
-Also, by aligning Bitcoin's brand with live-giving tits, we will supercharge adoption and inject humor into financial sovereignty. After all, every baby came into this world sucking on tits.
+Also, by aligning Bitcoin's brand with life-giving tits, we will supercharge adoption and inject humor into financial sovereignty. After all, every baby came into this world sucking on tits.
 
 **Under this BIP:**
 - Internally, the smallest indivisible unit remains unchanged.
